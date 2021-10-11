@@ -6,7 +6,6 @@ minimum and maximum values of Western Longitude (LONG_W) in STATION.
 Query the Euclidean Distance between points P1 and P2 and format your answer to display 4 decimal digits.
 
 ### Input Format
+#### The STATION table is described as follows:
 ![image](https://user-images.githubusercontent.com/28734537/136782031-83e860d1-88df-42e0-9ce4-9417a5bf9090.png)
 
-
-The STATION table is described as follows:
