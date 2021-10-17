@@ -1,3 +1,5 @@
+# List Comprehensions
+
 Let's learn about list comprehensions! You are given three integers <b>x,y and z </b> representing the dimensions of a cuboid along with an integer <b>n</b>. Print a list of all 
 possible coordinates given by <b>(i,j,k)</b> on a 3D grid where the sum of <b>i+j</b> is not equal to <b>n</b>. Here, . Please use list comprehensions rather than multiple 
 loops, as a learning exercise.
